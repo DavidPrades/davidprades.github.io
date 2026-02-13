@@ -35,7 +35,7 @@ Una aplicación elegante para llevar el registro de tu comida favorita. Perfecta
 - AdMob para monetización
 - SCSS para estilos
 
-[![Disponible en Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/es_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.davidprades.sushicounter)
+[![Disponible en Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/es_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.davidpy.sushicounter)
 
 ---
 
@@ -73,17 +73,16 @@ Estoy trabajando en nuevas aplicaciones emocionantes. ¡Mantente atento!
 
 ¿Tienes alguna pregunta o propuesta? ¡Me encantaría escucharte!
 
-- 📧 Email: [davidprades.dev@gmail.com](mailto:davidprades.dev@gmail.com)
+- 📧 Email: [davidprades8@gmail.com](mailto:davidprades8@gmail.com)
 - 🐙 GitHub: [@davidprades](https://github.com/davidprades)
-- 📱 Google Play: [Ver mis apps](https://play.google.com/store/apps/dev?id=6848965296473556638)
+- 📱 Google Play: [Ver mis apps](https://play.google.com/store/apps/developer?id=davidpy)
 - 🌐 Web: [davidprades.github.io](https://davidprades.github.io)
 
-## 🎯 Objetivos 2025
+## 🎯 Objetivos 2026
 
 - [ ] Publicar 3 nuevas aplicaciones en Google Play
 - [ ] Alcanzar 10,000 descargas totales
 - [ ] Contribuir a proyectos open source
-- [ ] Aprender Flutter/Dart
 - [ ] Mejorar skills en diseño UI/UX
 
 ## 📝 Licencia
@@ -102,5 +101,5 @@ Todos mis proyectos públicos están disponibles bajo la licencia MIT, a menos q
 
 <div align="center">
   <p>Hecho con ❤️ y mucho ☕</p>
-  <p>© 2025 David Prades. Todos los derechos reservados.</p>
+  <p>© 2026 David Prades. Todos los derechos reservados.</p>
 </div>
