@@ -13,7 +13,7 @@ Desarrollador apasionado por crear aplicaciones móviles intuitivas y funcionale
 
 ## 📱 Mis Aplicaciones
 
-### 🍣 [Sushi Counter](https://play.google.com/store/apps/details?id=com.davidprades.sushicounter)
+### 🍣 [Sushi Counter](https://play.google.com/store/apps/details?id=com.davidpy.sushicounter)
 **Contador de Comida Interactivo**
 
 Una aplicación elegante para llevar el registro de tu comida favorita. Perfecta para amantes del sushi y la comida japonesa.
